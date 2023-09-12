@@ -1,3 +1,4 @@
+![logo](https://github.com/rohitmauryax/rohitmauryax/blob/453d9490ea57e8fac054e48fa967f6583466ddb3/ezgif.com-gif-maker.gif)
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
