@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="500"  src="https://camo.githubusercontent.com/34e2391334d75246d9c86c0a470a4b5606ab4dc84fb803930bc89635b4fce9c9/68747470733a2f2f7777772e6c616d626461746573742e636f6d2f7265736f75726365732f696d616765732f6e65777332342e676966">
+<img align="right" alt="Coding" width="500"  src="https://github.com/rohitmauryax/rohitmauryax/blob/593748be6b2220f16c6e11aa298ae3c0925130f9/ezgif.com-reverse.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohitmauryax&label=Profile%20views&color=0e75b6&style=flat" alt="rohitmauryax" /> </p>
 
